@@ -1,0 +1,6 @@
+c:\users\deb\documents\visual studio 2015\Projects\studentTestScores\studentTestScores\bin\Debug\studentTestScores.exe.config
+c:\users\deb\documents\visual studio 2015\Projects\studentTestScores\studentTestScores\bin\Debug\studentTestScores.exe
+c:\users\deb\documents\visual studio 2015\Projects\studentTestScores\studentTestScores\bin\Debug\studentTestScores.pdb
+c:\users\deb\documents\visual studio 2015\Projects\studentTestScores\studentTestScores\obj\Debug\studentTestScores.csprojResolveAssemblyReference.cache
+c:\users\deb\documents\visual studio 2015\Projects\studentTestScores\studentTestScores\obj\Debug\studentTestScores.exe
+c:\users\deb\documents\visual studio 2015\Projects\studentTestScores\studentTestScores\obj\Debug\studentTestScores.pdb
